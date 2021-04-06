@@ -12,7 +12,6 @@ This Analysis adapts the flow of the Data Science Life Cycle.
 ```
 git clone https://github.com/San411/Time-Series-Analysis.git
 pip3 install -r requirements.txt
-
 ```
 ## Data Mining
 
@@ -30,15 +29,14 @@ The JSON data will look like this.
   "access": "all-access", 
   "agent": "all-agents",
   "views": 9}
-
 ```
 
 Execute the 2 scripts in the following order:
  ```
  data_cleaning.ipynb
- data_exploration.ipynb
- 
+ data_exploration.ipynb 
  ```
+ 
 ## View Plot for a sample dataset
 
 ![View Plot](/Display images/Daily Plot.png)
