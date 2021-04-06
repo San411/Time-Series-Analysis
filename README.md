@@ -1,10 +1,10 @@
 # Web Traffic Forecasting
-![Web Traffic visual](/Display images/Web traffic.jpg)
+![Web Traffic visual](Display images/Web traffic.jpg)
 
 This Repository is to analyse the web traffic of a website for a particular time interval using Time Series Analysis and forecast the same for the future. The website chosen for analysis here is [Wikipedia](https://www.wikipedia.org/). 
 The scripts are in iPython Notebook (ipynb) format.
 
-![DSLC](/Display images/DSLC.png)
+![DSLC](Display images/DSLC.png)
 This Analysis adapts the flow of the Data Science Life Cycle.
 
 ## Initial Setup
@@ -39,7 +39,7 @@ Execute the 2 scripts in the following order:
  
 ## View Plot for a sample dataset
 
-![View Plot](/Display images/Daily Plot.png)
+![View Plot](Display images/Daily Plot.png)
 
 
 
