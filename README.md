@@ -59,7 +59,9 @@ After performing the Augmented Dickey Fuller Test the flattened data is stored i
 ![ARIMA](Display_Images/ARIMA.png)
 
  Mean Absolute Error : 28.318
+ 
  Mean Squared Error : 2110.667
+ 
  Root Mean Squared Error : 45.941
 
 ## FACEBOOK - PROPHET
@@ -68,8 +70,11 @@ After performing the Augmented Dickey Fuller Test the flattened data is stored i
 ![PROPHET](Display_Images/PROPHET.png)
 
  Mean Absolute Error : 220.883
+ 
  Mean Squared Error : 75844.554
+ 
  Root Mean Squared Error : 275.398
+ 
  SMAPE Score : 42.966
 
 
