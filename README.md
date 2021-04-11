@@ -33,17 +33,44 @@ The JSON data will look like this.
   "views": 9}
 ```
 
+## Data Cleaning and Exploration
+
 Execute the 2 scripts in the following order:
  ```
  data_cleaning.ipynb
  data_exploration.ipynb 
  ```
- 
-## View Plot for a sample dataset
+The cleaned data will be saved in the datasets folder.
+
+View Plot for a sample dataset after exploration
 
 ![View Plot](Display_Images/Daily_Plot.png)
 
+## Feature Engineering
 
+Results of Rolling Statistics 
+
+![R-Stats](Display_Images/r_Stats.png)
+
+After performing the Augmented Dickey Fuller Test the flattened data is stored in the datasets folder.
+
+## ARIMA
+
+![ARIMA](Display_Images/ARIMA.png)
+
+# Mean Absolute Error : 28.318
+# Mean Squared Error : 2110.667
+# Root Mean Squared Error : 45.941
+
+## FACEBOOK - PROPHET
+
+![PROPHET - FLATTENED](Display_Images/PROPHET_FLATTENED.png)
+![PROPHET](Display_Images/PROPHET.png)
+
+# Mean Absolute Error : 220.883
+# Mean Squared Error : 75844.554
+# Root Mean Squared Error : 275.398
+# SMAPE Score : 42.966
 
 
 
