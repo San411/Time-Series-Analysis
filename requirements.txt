@@ -7,3 +7,5 @@ seaborn
 json
 re2
 statsmodels
+fbprophet
+
